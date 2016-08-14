@@ -32,15 +32,15 @@ section{
     margin: 40px 0px 0px 0px;
     
 }
-
-/*section {
-  float: left;
-  margin: 0 1.5%;
-  width: 30%;
- border: 1px solid black;
-}*/
-
-/*Chicken, Beef, Sushi*/
+p.p1{
+    background-color: #6243e5;
+}
+p.p2{
+    background-color: #51b5ea;
+}
+p.p3{
+    background-color: #09762f;
+}
 
 /****** Mobile Devices ******/
 @media (max-width: 767px){
